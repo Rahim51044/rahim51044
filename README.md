@@ -21,3 +21,9 @@ I'm a passionate frontend developer with a love for clean UI and responsive desi
 Skilled in React, Tailwind, and Firebase.  
 I enjoy building real-world projects and solving problems with code.  
 Currently learning TypeScript and exploring backend technologies.
+
+
+🔭 I’m currently working on an event management website.  
+🌱 I’m learning Next.js and MongoDB.  
+💬 Ask me about React, Tailwind, or Firebase.  
+📫 How to reach me: abdurrahim@email.com
