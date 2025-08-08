@@ -42,3 +42,13 @@ Currently learning TypeScript and exploring backend technologies.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abdurrahim)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/abdurrahim51044)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurrahim51044)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahim51044&layout=compact)  
+![Rahim’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahim51044&show_icons=true&theme=radical)
+
