@@ -1,16 +1,13 @@
-## Hi there 👋
+![Banner](https://your-image-link.com/banner.png)
 
-<!--
-**Rahim51044/rahim51044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rahim 👋
+A passionate Frontend Developer from Bangladesh 🇧🇩
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** React, Next.js, Express.js
+- **Tools:** Git, GitHub, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 Email: mdarahim17@gmail.com
+- 💬 WhatsApp: +8801408343087
