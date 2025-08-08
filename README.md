@@ -6,7 +6,7 @@
 A passionate Frontend Developer from Bangladesh 🇧🇩
 
 ## 💻 Skills
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, Node.js, tailwind, CSS, HTML
 - **Frameworks:** React, Next.js, Express.js
 - **Tools:** Git, GitHub, Firebase, MongoDB
 
