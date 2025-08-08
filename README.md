@@ -44,7 +44,7 @@ Currently learning TypeScript and exploring backend technologies.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abdurrahim)  
+[![LinkedIn](www.linkedin.com/in/abdur-rahim2002)  
 
 [![GitHub](https://github.com/Rahim51044)
 
