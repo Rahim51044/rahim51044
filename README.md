@@ -1,4 +1,4 @@
-![Banner](https://your-image-link.com/banner.png)
+https://i.ibb.co.com/1YTythc7/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png
 
 # Hi, I'm Rahim 👋
 A passionate Frontend Developer from Bangladesh 🇧🇩
